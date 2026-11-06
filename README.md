@@ -2,7 +2,6 @@
 ## Medal of Honor: Pacific Assault — Vietnam
 A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA) decompilation project. *Vietnam* reimagined as an MoHPA decomp remake — the original game's jungle warfare, patrol tension, and era-authentic weaponry, rebuilt on the MoHPA engine so it can be extended, modded, and preserved.
 
-
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/mohpa-vietnam
 ](https://treegit.macosxjs.com/?url=igiteam/mohpa-vietnam)
