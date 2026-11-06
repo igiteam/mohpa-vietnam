@@ -14,6 +14,23 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 ## Game Intro
 [![Medal of Honor: Pacific Assault — Vietnam](https://img.youtube.com/vi/6A-zhY1n7hc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6A-zhY1n7hc)
 
+---
+
+
+## Reference Links
+[https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit)
+
+[https://archive.org/details/medal-of-honor-pacific-assault](https://archive.org/details/medal-of-honor-pacific-assault)
+
+[https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/medal-of-honor-pacific-assault-directors-edition](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/medal-of-honor-pacific-assault-directors-edition)
+
+[https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit)
+
+[https://www.moddb.com/games/medal-of-honor-pacific-assault/tutorials/upscaling-lithtech-engine-games](https://www.moddb.com/games/medal-of-honor-pacific-assault/tutorials/upscaling-lithtech-engine-games)
+
+---
+
+
 ## Dev Environment
 
 **Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
