@@ -18,9 +18,11 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 
 
 ## Reference Links
-[https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit)
-
 [https://archive.org/details/medal-of-honor-pacific-assault](https://archive.org/details/medal-of-honor-pacific-assault)
+
+[![Medal of Honor: Pacific Assault](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/medal-of-honor-pacific-assault.png)](https://archive.org/details/medal-of-honor-pacific-assault)
+
+[https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit)
 
 [https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/medal-of-honor-pacific-assault-directors-edition](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/medal-of-honor-pacific-assault-directors-edition)
 
