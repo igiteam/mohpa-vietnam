@@ -3,21 +3,30 @@
 A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA) decompilation project. *Vietnam* reimagined as an MoHPA decomp remake — the original game's jungle warfare, patrol tension, and era-authentic weaponry, rebuilt on the MoHPA engine so it can be extended, modded, and preserved.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/mohpa-vietnam
-](https://treegit.macosxjs.com/?url=igiteam/mohpa-vietnam)
+[https://treegit.macosxjs.com/?url=igiteam/mohpa-vietnam](https://treegit.macosxjs.com/?url=igiteam/mohpa-vietnam)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/mohpa-vietnam/git/trees/main?recursive=1
-](https://api.github.com/repos/igiteam/mohpa-vietnam/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/mohpa-vietnam/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/mohpa-vietnam/git/trees/main?recursive=1)
 
 ## Game Intro
 [![Medal of Honor: Pacific Assault — Vietnam](https://img.youtube.com/vi/6A-zhY1n7hc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6A-zhY1n7hc)
 
 ---
 
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
 ## Reference Links
 [https://archive.org/details/medal-of-honor-pacific-assault](https://archive.org/details/medal-of-honor-pacific-assault)
+
+[![Medal of Honor: Pacific Assault Basic Commands](https://img.youtube.com/vi/dVJc-EmjjUE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFZKYy1FbWpqVUU)
+
+[Medal Of Honor Pacific Assault Tutorials](https://meyt.macosxjs.com/playlist/PLb8oNKiUbnjHErP6Rs6_E-AdCsXBGa3lV)
+
+
+[![Medal Of Honor Pacific Assault Vietnam OST](https://i.ytimg.com/vi/0d5ubWwG6JM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtlwthuYSd_en_mjnX4oChCpxhjQ)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEND8_OTtnawCQd_-i_LTLV)
 
 [![Medal of Honor: Pacific Assault](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/medal-of-honor-pacific-assault.png)](https://archive.org/details/medal-of-honor-pacific-assault)
 
