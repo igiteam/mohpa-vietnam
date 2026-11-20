@@ -9,7 +9,7 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 [https://api.github.com/repos/igiteam/mohpa-vietnam/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/mohpa-vietnam/git/trees/main?recursive=1)
 
 ## Game Intro
-[![Medal of Honor: Pacific Assault — Vietnam](https://img.youtube.com/vi/6A-zhY1n7hc/maxresdefault.jpg)](https://www.youtube.com/watch?v=6A-zhY1n7hc)
+[![Medal of Honor: Pacific Assault — Vietnam](https://img.youtube.com/vi/6A-zhY1n7hc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NkEtemhZMW43aGM)
 
 ---
 
