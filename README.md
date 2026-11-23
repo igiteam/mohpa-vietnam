@@ -21,10 +21,13 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 ## Reference Links
 [https://archive.org/details/medal-of-honor-pacific-assault](https://archive.org/details/medal-of-honor-pacific-assault)
 
+[https://archive.org/download/hellinviet](https://archive.org/download/hellinviet)
+
 [![Medal of Honor: Pacific Assault Basic Commands](https://img.youtube.com/vi/dVJc-EmjjUE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZFZKYy1FbWpqVUU)
 
 [Medal Of Honor Pacific Assault Tutorials](https://meyt.macosxjs.com/playlist/PLb8oNKiUbnjHErP6Rs6_E-AdCsXBGa3lV)
 
+[![The Hell in Vietnam](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/the_hell_in_vietnam.jpg)](https://ytembed.macosxjs.com/?eUI5TWVFem5oZ2s)
 
 [![Medal Of Honor Pacific Assault Vietnam OST](https://i.ytimg.com/vi/0d5ubWwG6JM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtlwthuYSd_en_mjnX4oChCpxhjQ)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEND8_OTtnawCQd_-i_LTLV)
 
@@ -37,6 +40,8 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 [https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit)
 
 [https://www.moddb.com/games/medal-of-honor-pacific-assault/tutorials/upscaling-lithtech-engine-games](https://www.moddb.com/games/medal-of-honor-pacific-assault/tutorials/upscaling-lithtech-engine-games)
+
+[![The Hell In Vietnam](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/the_hell_in_vietnam_2006.jpeg)](https://archive.org/details/the-hell-in-vietnam-2007)
 
 ---
 
