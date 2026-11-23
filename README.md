@@ -11,6 +11,8 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 ## Game Intro
 [![Medal of Honor: Pacific Assault — Vietnam](https://img.youtube.com/vi/6A-zhY1n7hc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?NkEtemhZMW43aGM)
 
+## Base Gameplay
+
 ---
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
@@ -29,9 +31,12 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 
 [![The Hell in Vietnam](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/the_hell_in_vietnam.jpg)](https://ytembed.macosxjs.com/?eUI5TWVFem5oZ2s)
 
+[![Line of Sight: Vietnam (2003) - PC Gameplay 4k 2160p / Win 10](https://img.youtube.com/vi/2U6R_QqQ2Xs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlU2Ul9RcVEyWHM)
+
 [![Medal Of Honor Pacific Assault Vietnam OST](https://i.ytimg.com/vi/0d5ubWwG6JM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtlwthuYSd_en_mjnX4oChCpxhjQ)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEND8_OTtnawCQd_-i_LTLV)
 
 [![Medal of Honor: Pacific Assault](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/medal-of-honor-pacific-assault.png)](https://archive.org/details/medal-of-honor-pacific-assault)
+
 
 [https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit](https://www.moddb.com/games/medal-of-honor-pacific-assault/downloads/modification-developers-kit)
 
@@ -41,7 +46,11 @@ A remake of *Vietnam* rebuilt in the **Medal of Honor: Pacific Assault** (MoHPA)
 
 [https://www.moddb.com/games/medal-of-honor-pacific-assault/tutorials/upscaling-lithtech-engine-games](https://www.moddb.com/games/medal-of-honor-pacific-assault/tutorials/upscaling-lithtech-engine-games)
 
+[https://www.moddb.com/games/line-of-sight-vietnam/downloads/line-of-sight-vietnamediting](https://www.moddb.com/games/line-of-sight-vietnam/downloads/line-of-sight-vietnamediting)
+
 [![The Hell In Vietnam](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/the_hell_in_vietnam_2006.jpeg)](https://archive.org/details/the-hell-in-vietnam-2007)
+
+[![Line Of Sight Vietnam](https://raw.githubusercontent.com/igiteam/mohpa-vietnam/refs/heads/main/line_of_sight_vietnam.jpeg)](https://archive.org/details/line-of-sight-vietnam-2006)
 
 ---
 
